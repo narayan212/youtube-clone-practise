@@ -25,6 +25,7 @@
   .thumbnail-row {
     margin-bottom: 8px;
     position: relative;
+    cursor: pointer;
   }
 
   .video-author,
